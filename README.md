@@ -1,6 +1,11 @@
 # Kaggle Data Science Competition
 
 # Time Series Climate Chnage Forecasting - SARIMA
+
+Motivation - 
+
+Climate change in the world can be caused by various activities. When climate change occurs; temperatures can increase a dramatically. When temperature rises, many different changes can occur on Earth. For example, it can result in more floods, droughts, or intense rain, as well as more frequent and severe heat waves. Oceans and glaciers have also experienced some changes: oceans are warming and becoming more acidic, glaciers are melting, and sea levels are rising. As these changes frequently occur in future decades, they will likely present challenges to our society and environment
+
 <img width="879" alt="Screen Shot 2022-02-23 at 11 06 47 PM" src="https://user-images.githubusercontent.com/91064646/155456319-45b5528e-e4e1-4394-97c1-4c5a55314f2c.png">
 
 
