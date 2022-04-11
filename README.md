@@ -1,6 +1,6 @@
 # Kaggle Data Science Competition
 
-# Time Series Climate Chnage Forecasting - SARIMA
+# Time Series Climate Change Forecasting - SARIMA
 
 Motivation - 
 
